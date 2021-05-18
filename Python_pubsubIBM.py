@@ -7,7 +7,7 @@ import random
 import json
 
 #Provide your IBM Watson Device Credentials
-organization = "gz7i80"
+organization = "o349yq"
 deviceType = "iotdevice"
 deviceId = "1001"
 authMethod = "token"
